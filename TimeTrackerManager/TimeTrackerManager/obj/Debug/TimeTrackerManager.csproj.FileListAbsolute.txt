@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\bin\Debug\TimeTrackerManager.exe.config
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\bin\Debug\TimeTrackerManager.exe
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\bin\Debug\TimeTrackerManager.pdb
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.MainForm.resources
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.Properties.Resources.resources
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.TaskForm.resources
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.exe
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.pdb
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.AboutBox.resources
+C:\Users\Chris\source\repos\TimeTrackerManager\TimeTrackerManager\obj\Debug\TimeTrackerManager.Settings.resources
